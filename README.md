@@ -6,5 +6,5 @@ Pas eens er effectief besteld is wordt de data overgeschreven in de database.
 Geschreven volgens mvc model.
 Focus ligt hier op de back-end, het front-end gedeelte is minder belangrijk.
 Startpagina is toonpizzas.php.
-Export van de gebruikte database = pizzeria(2).sql
+Export van de gebruikte database = pizzeria(2).sql.
 Adres en bestelling kunnen nog aangepast worden op de bestelpagina.
